@@ -5,6 +5,7 @@ modules:
       resolver:
         function: resolver
       title: GlobalPageTwo
+      layout: basic
   function:
     - key: resolver
       handler: index.handler
